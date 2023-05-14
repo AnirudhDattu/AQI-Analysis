@@ -22,4 +22,5 @@ The data is sourced from the National Air Quality Index (NAQI) website of the Ce
 
 The code can be run for each city separately by changing the input data file path and city name in the code. The output includes a line plot of AQI trends over time and a summary of the AQI levels for the entire time period. The code can also be modified to analyze data for other cities or time periods.
 
+All the data is cleaned and pre-prepared so that you can directly start with your work
 Feel free to use and modify the code for your own purposes. If you use this code in your research or project, please cite the source.
